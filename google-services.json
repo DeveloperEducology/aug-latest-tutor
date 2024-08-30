@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772392164444",
+    "project_id": "latest-aug",
+    "storage_bucket": "latest-aug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772392164444:android:20f3e31da117c20e895a99",
+        "android_client_info": {
+          "package_name": "com.vijaymarka.latestaugtutor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbODPMobYUtJoowKEkBmGN4IOu_JT2C4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
